@@ -1,8 +1,8 @@
-                                                                        # Hi 👋 I'm Avinash
+# Hi 👋 I'm Avinash
 
-                                                     🎓 B.Tech Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast
+🎓 B.Tech Student | 💻 Aspiring Data Scientist | 🚀 Tech Enthusiast
 
-                                                                                  ---
+ ---
 
 ## 👨‍💻 About Me
 
