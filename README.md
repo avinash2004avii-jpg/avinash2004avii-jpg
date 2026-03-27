@@ -73,12 +73,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash2004avii-jpg\&layout=compact\&theme=tokyonight)
 
 ---
+📫 Connect With Me
 
-## 📫 Connect With Me
-
-* 📧 Email: [](avinash2004avii@gmail.com)
-* 💼 LinkedIn: [](https://www.linkedin.com/in/avi-nash-4b8a70331/)
-
+* 📧 **Email:** [avinash2004avii@gmail.com](mailto:yourname@email.com)
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/))
 ---
 
 ## ⚡ Fun Fact
