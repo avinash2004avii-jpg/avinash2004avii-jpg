@@ -75,9 +75,8 @@
 ---
 📫 Connect With Me
 
-* 📧 **Email:** [avinash2004avii@gmail.com](mailto:yourname@email.com)
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/)](https://www.linkedin.com/in/))
----
+* 📧 **Email:** [avinash2004avii@gmail.com](mailto:avinash2004avii@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/avinash-profile](https://www.linkedin.com/in/your-actual-username)
 
 ## ⚡ Fun Fact
 
